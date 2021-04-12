@@ -13,3 +13,5 @@ Welcome to my GitHub page. 😉
 </a>
 
 <img align="center" src="https://gpvc.arturio.dev/amirhn1382" alt="AmirhN1382's github views" />
+
+![](https://discord.c99.nl/widget/theme-3/299496958731747329.png)
