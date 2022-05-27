@@ -14,4 +14,4 @@ Welcome to my GitHub page. 😉
 
 <img align="center" src="https://gpvc.arturio.dev/amirhn1382" alt="AmirhN1382's github views" />
 
-![](https://discord.c99.nl/widget/theme-3/299496958731747329.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/299496958731747329)](https://discord.com/users/299496958731747329)
